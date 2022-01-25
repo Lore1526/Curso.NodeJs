@@ -52,9 +52,9 @@ const usuario = new Usuario("Lorena", "De Luca", books, [
 
 console.log(usuario);
 console.log(usuario.getFullName());
-console.log(usuario.addMascota("Reptil"));
+usuario.addMascota("Reptil");
 console.log(usuario.mascotas);
 console.log(usuario.countMascotas());
-console.log(usuario.addBook("Bajo la misma estrella", "John Green"));
+usuario.addBook("Bajo la misma estrella", "John Green");
 console.log(usuario.libros);
 console.log(usuario.getBookNames());
