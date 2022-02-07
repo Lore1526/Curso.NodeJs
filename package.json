@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lore1526/Curso.NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lore1526/Curso.NodeJs/issues"
+  },
+  "homepage": "https://github.com/Lore1526/Curso.NodeJs#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
